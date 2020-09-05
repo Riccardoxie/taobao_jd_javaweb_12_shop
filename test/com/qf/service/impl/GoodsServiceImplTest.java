@@ -18,6 +18,7 @@ public class GoodsServiceImplTest {
             goods.setGdesc("高清 4k 曲面屏");
             goods.setGnum(10);
             goods.setGpid(4);
+
             goods.setGfid(7);
             goods.setGpng("xxx.png");
             goods.setGprice(4999.0);
