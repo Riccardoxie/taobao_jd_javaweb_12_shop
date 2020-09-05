@@ -4,6 +4,7 @@ import com.qf.entity.Goods;
 import com.qf.entity.Page;
 import com.qf.service.IGoodsService;
 import org.junit.Test;
+//import org.junit.Test;
 
 public class GoodsServiceImplTest {
 
